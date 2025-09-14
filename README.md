@@ -2,6 +2,9 @@
 
 - Install CRA
 - Configure Tailwindcss
+- Header
+- Login Form
+- Sign Up Form
 
 # Features
 
