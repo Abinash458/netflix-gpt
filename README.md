@@ -36,6 +36,9 @@
 - Made the browse page look better with tailwind css.
 - usePopularMovie custom hooks.
 - useTopRatedMovie custom hooks.
+- GPT Search Page
+- GPT Search Bar
+- (\*)Multi-language feature in our app
 
 # Features
 
