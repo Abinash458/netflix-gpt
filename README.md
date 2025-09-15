@@ -39,6 +39,7 @@
 - GPT Search Page
 - GPT Search Bar
 - (\*)Multi-language feature in our app
+- Render GPT search movies.
 
 # Features
 
