@@ -39,7 +39,14 @@
 - GPT Search Page
 - GPT Search Bar
 - (\*)Multi-language feature in our app
-- Render GPT search movies.
+- GPT Search API call.
+- Render GPT search movies From TMDB.
+- created gptSlice and added data.
+- Reuse MovieList component to make movie suggestion container.
+- Memoization.
+- Adding .env file
+- Adding .env to .gitignore.
+- Made our site responsive.
 
 # Features
 
